@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a0bc1a992e061396c822b64d316a600e8c8fc3c204bef7095e1455c2e509babd"
+            "sha256": "d075bccb3501138022c0e611583d20cc774e4f08a36fe4b2b7f494008ee39643"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -15,11 +15,7 @@
             }
         ]
     },
-    "default": {
-        "batteries": {
-            "path": "."
-        }
-    },
+    "default": {},
     "develop": {
         "atomicwrites": {
             "hashes": [

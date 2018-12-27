@@ -1,4 +1,4 @@
-# Contributing to batteries
+# Contributing to helpers
 
 
 ## Repository Standards

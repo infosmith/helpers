@@ -35,7 +35,7 @@ FULL_NAME = "David S."
 GITHUB_ACCOUNT = 'infosmith'
 LICENSE = 'MIT license'
 PROJECT_SLUG = 'helpers'
-PROJECT_SHORT_DESCRIPTION = 'The helpers included in my projects.'
+PROJECT_SHORT_DESCRIPTION = 'Improved developer experience, accumulated.'
 VERSION = '0.2.0'
 
 # Project conditional configuration

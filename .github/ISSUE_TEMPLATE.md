@@ -16,4 +16,4 @@
 
 - OS: {YOUR_DESCRIPTION}
 - Python: {YOUR_DESCRIPTION}
-- batteries version: {YOUR_DESCRIPTION}
+- helpers version: {YOUR_DESCRIPTION}
