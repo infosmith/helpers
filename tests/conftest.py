@@ -1,8 +1,13 @@
-"""Testing fixtures."""
+"""Pytest test fixtures."""
 import pytest
 
 
+class Log(object):
+    info = print
+    warning = print
+    error = print
+
+
 @pytest.fixture(scope='class')
-def example_pytest_fixture(request):
-    """Example pytest fixture."""
-    request.cls.example_pytest_fixture = 4
+def logging(request):
+    request.cls.log = Log()
