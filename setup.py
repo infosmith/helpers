@@ -36,9 +36,9 @@ EMAIL = 'infosmith@prontonmail.com'
 FULL_NAME = "David S."
 GITHUB_ACCOUNT = 'infosmith'
 LICENSE = 'MIT license'
-PROJECT_SLUG = 'batteries'
+PROJECT_SLUG = 'helpers'
 PROJECT_SHORT_DESCRIPTION = 'The helpers included in my projects.'
-VERSION = '0.1.0'
+VERSION = '0.2.0'
 
 # Project conditional configuration
 if 'MIT license' in LICENSES.keys():
