@@ -1,6 +1,6 @@
 import unittest
 
-from batteries.oop.reflection.helpers import is_mangled_name as uut
+from helpers.oop.reflection.helpers import is_mangled_name as uut
 
 
 class TestIsMangledName(unittest.TestCase):

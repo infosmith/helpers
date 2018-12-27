@@ -29,7 +29,7 @@ clean:
 	rm -Rf .pytest_cache      # pytest
 	rm -Rf build              # pypi
 	rm -Rf dist               # pypi
-	rm -Rf batteries.egg-info # pypi
+	rm -Rf helpers.egg-info # pypi
 
 
 install-local:

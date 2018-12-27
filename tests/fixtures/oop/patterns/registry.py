@@ -1,4 +1,4 @@
-from batteries.oop.patterns.registry import Registry
+from helpers.oop.patterns.registry import Registry
 
 
 registry = Registry()

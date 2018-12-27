@@ -8,7 +8,6 @@ pytest = "*"
 bumpversion = "*"
 
 [packages]
-batteries = {path = "."}
 
 [requires]
 python_version = "3.6"

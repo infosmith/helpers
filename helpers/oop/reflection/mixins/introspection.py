@@ -1,5 +1,5 @@
 from .abstract import AbstractReflectionMixin
-from batteries.oop import (
+from helpers.oop import (
     is_private_method,
     is_public_property,
     is_public_method,

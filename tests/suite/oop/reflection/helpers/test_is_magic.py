@@ -1,6 +1,6 @@
 import unittest
 
-from batteries.oop.reflection.helpers import is_magic as uut
+from helpers.oop.reflection.helpers import is_magic as uut
 
 
 class TestIsMagic(unittest.TestCase):

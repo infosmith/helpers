@@ -2,7 +2,7 @@ import unittest
 
 import pytest
 
-from batteries.dsa.dictionaries.recursive import RecursiveDictionary
+from helpers.dsa.dictionaries.recursive import RecursiveDictionary
 
 
 @pytest.mark.usefixtures('logging')

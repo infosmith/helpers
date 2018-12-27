@@ -1,6 +1,6 @@
 import unittest
 
-from batteries.dsa.dictionaries.mixins import Subscriptable
+from helpers.dsa.dictionaries.mixins import Subscriptable
 
 
 class UnitUnderTest(Subscriptable):

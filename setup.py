@@ -37,7 +37,7 @@ FULL_NAME = "David S."
 GITHUB_ACCOUNT = 'infosmith'
 LICENSE = 'MIT license'
 PROJECT_SLUG = 'batteries'
-PROJECT_SHORT_DESCRIPTION = 'The batteries included in my projects.'
+PROJECT_SHORT_DESCRIPTION = 'The helpers included in my projects.'
 VERSION = '0.1.0'
 
 # Project conditional configuration

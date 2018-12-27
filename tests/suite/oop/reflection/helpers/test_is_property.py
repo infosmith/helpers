@@ -2,7 +2,7 @@ import unittest
 
 import pytest
 
-from batteries.oop.reflection.helpers import is_property as uut
+from helpers.oop.reflection.helpers import is_property as uut
 
 
 @pytest.mark.usefixtures('oop_reflection_testcase')

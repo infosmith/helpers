@@ -12,9 +12,9 @@ class Log(object):
 
 
 @pytest.fixture(scope='class')
-def oop_reflection_testcase(request):
-    """Example pytest fixture."""
-    request.cls.testcase = ReflectionTestCase()
-
 def logging(request):
     request.cls.log = Log()
+
+@pytest.fixture(scope='class')
+def oop_reflection_testcase(request):
+    request.cls.testcase = ReflectionTestCase()

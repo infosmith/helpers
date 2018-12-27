@@ -2,7 +2,7 @@ import unittest
 
 import pytest
 
-from batteries.oop.reflection.helpers import get_attribute_labels
+from helpers.oop.reflection.helpers import get_attribute_labels
 
 
 @pytest.mark.usefixtures('oop_reflection_testcase')
