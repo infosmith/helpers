@@ -1,8 +1,11 @@
 """Testing fixtures."""
 import pytest
 
+from .fixtures.oop.reflection import ReflectionTestCase
+
+
 
 @pytest.fixture(scope='class')
-def example_pytest_fixture(request):
+def oop_reflection_testcase(request):
     """Example pytest fixture."""
-    request.cls.example_pytest_fixture = 4
+    request.cls.testcase = ReflectionTestCase()
