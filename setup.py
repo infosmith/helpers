@@ -25,7 +25,7 @@ LICENSES = {
 }
 REQUIREMENTS = {
     'install': [],
-    'setup': ['pytest-runner'],
+    'setup': [''],
     'tests': ['pytest']
 }
 
